@@ -3,20 +3,20 @@ Module 2 challenge
 
 
 Author
-This project was created by Yiannis Pagkalos. Feel free to contact me at yiannis.pagkalos@gmail.com with any questions or feedback
+This project was created by Yiannis Pagkalos. Feel free to contact me at yiannis.pagkalos@gmail.com with any questions or feedback.
 
 Variety Food Truck Ordering System
 
-This is a Python-based food ordering system for a variety food truck. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
+This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
 
-Features
+**Features**
 
 	•	A multi-category menu including Snacks, Meals, Drinks, and Desserts.
 	•	Continuous ordering process with a validation check on inputs.
 	•	Adds ordered items to a list in dictionary format.
 	•	Displays a receipt with itemized order details and a total cost calculation.
 
-Menu Categories
+**Menu Categories**
 
 The menu is divided into the following categories:
 
