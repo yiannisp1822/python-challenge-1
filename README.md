@@ -44,6 +44,7 @@ The menu is divided into the following categories:
 ## Example Interaction
 	Welcome to the variety food truck.
 	Which menu would you like to order from? 
+ 
 	1: Snacks
 	2: Meals
 	3: Drinks
@@ -65,12 +66,12 @@ The menu is divided into the following categories:
 	9      | Burger - Beef             | $8.49
 
  
-	*Please type the number of the item you wish to order: 1
-	*How many Burritos would you like to order? (note: quantity will default to 1 if you enter an invalid input): 2
-	*Would you like to keep ordering? (Y)es or (N)o: n
-	*Thank you for your order.
+	* Please type the number of the item you wish to order: 1
+	* How many Burritos would you like to order? (note: quantity will default to 1 if you enter an invalid input): 2
+	* Would you like to keep ordering? (Y)es or (N)o: n
+	* Thank you for your order.
 
-	This is what we are preparing for you.
+	*This Is what we are preparing for you:*
 	
 	Item name                 | Price  | Quantity
 	--------------------------|--------|----------
