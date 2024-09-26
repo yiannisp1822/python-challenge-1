@@ -2,11 +2,9 @@
 **Module 2 challenge**
 
 
-## Author
-Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.
+## Author ##: Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.
 
 **Food Ordering System**
-
 This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
 
 ## **Features**
@@ -37,20 +35,20 @@ This is a Python-based food ordering system. It allows users to select menu item
 
 ## Order Flow
 
-• The system first displays the menu to the customer.
-• The customer can select a category and then pick an item from that category.
-• Input validation ensures that only valid menu numbers and quantities are accepted.
-• The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
+	• The system first displays the menu to the customer.
+	• The customer can select a category and pick an item from that category.
+	• Input validation ensures that only valid menu numbers and quantities are accepted.
+	• The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
 
 
 ## Example Interaction
 	Welcome to the variety food truck.
 	Which menu would you like to order from? 
  
-	1: Snacks
-	2: Meals
-	3: Drinks
-	4: Dessert
+		1: Snacks
+		2: Meals
+		3: Drinks
+		4: Dessert
  
 	Type menu number: 2
 	You selected Meals
@@ -69,9 +67,9 @@ This is a Python-based food ordering system. It allows users to select menu item
 
  
 	Please type the number of the item you wish to order: 1
-	* How many Burritos would you like to order? (note: quantity will default to 1 if you enter an invalid input): 2
-	* Would you like to keep ordering? (Y)es or (N)o: n
-	* Thank you for your order.
+	• How many Burritos would you like to order? (note: quantity will default to 1 if you enter an invalid input): 2
+	• Would you like to keep ordering? (Y)es or (N)o: n
+	• Thank you for your order.
 
 	*This Is what we are preparing for you:*
 	
