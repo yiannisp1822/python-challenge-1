@@ -1,13 +1,11 @@
 # python-challenge-1
-**Module 2 challenge**
-
-
-## Author ##: Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.
+  **Module 2 challenge**
+  Author: Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.
 
 **Food Ordering System**
-This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
+  This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
 
-## **Features**
+## Features
 
 	• A multi-category menu including Snacks, Meals, Drinks, and Desserts.
 	• Continuous ordering process with a validation check on inputs.
@@ -42,6 +40,7 @@ This is a Python-based food ordering system. It allows users to select menu item
 
 
 ## Example Interaction
+
 	Welcome to the variety food truck.
 	Which menu would you like to order from? 
  
@@ -81,6 +80,7 @@ This is a Python-based food ordering system. It allows users to select menu item
 
 
 ## Key Features
+
 	1. Continuous Ordering: The customer can order multiple items from different categories in a single session.
 	2. Input Validation: The program checks that the user input is valid for both menu item selection and quantity.
 	3. Receipt: After the order is completed, the receipt is displayed with each item, its price, and the total amount due.
