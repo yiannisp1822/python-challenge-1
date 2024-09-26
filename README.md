@@ -33,10 +33,10 @@
 
 ## Order Flow  
 
-	- The system first displays the menu to the customer.
-	- The customer can select a category and pick an item from that category.
-	- Input validation ensures that only valid menu numbers and quantities are accepted.
-	- The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
+- The system first displays the menu to the customer.
+- The customer can select a category and pick an item from that category.
+- Input validation ensures that only valid menu numbers and quantities are accepted.
+- The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
 
 
 ## Example Interaction  
