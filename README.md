@@ -1,6 +1,7 @@
 # python-challenge-1  
 
   **Module 2 challenge**  
+  
   *Author* : Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.  
   
   *Food Ordering System*: This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
