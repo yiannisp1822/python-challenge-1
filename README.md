@@ -7,19 +7,19 @@
 
 ## Features  
 
-• A multi-category menu including Snacks, Meals, Drinks, and Desserts.  
-• Continuous ordering process with a validation check on inputs.  
-• Adds ordered items to a list in dictionary format.  
-• Displays a receipt with itemized order details and a total cost calculation.  
+- A multi-category menu including Snacks, Meals, Drinks, and Desserts.
+- Continuous ordering process with a validation check on inputs.
+- Adds ordered items to a list in dictionary format.
+- Displays a receipt with itemized order details and a total cost calculation.  
 
 ## Menu Categories  
 
 The menu is divided into the following categories:  
 
-• Snacks: Items like cookies, bananas, apples, etc.  
-• Meals: Includes burritos, sushi, pizza, burgers, etc.  
-• Drinks: Various sodas, teas, and coffees.  
-• Desserts: Includes cakes, cheesecake, and other desserts.  
+- Snacks: Items like cookies, bananas, apples, etc.
+- Meals: Includes burritos, sushi, pizza, burgers, etc.
+- Drinks: Various sodas, teas, and coffees.
+- Desserts: Includes cakes, cheesecake, and other desserts.  
 
 
 ## How to Run  
