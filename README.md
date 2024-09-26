@@ -1,11 +1,11 @@
 # python-challenge-1
-Module 2 challenge
+**Module 2 challenge**
 
 
 ## Author
-This project was created by Yiannis Pagkalos. Feel free to contact me at yiannis.pagkalos@gmail.com with any questions or feedback.
+Yiannis Pagkalos. If you have any questions or feedback, feel free to contact me at yiannis.pagkalos@gmail.com.
 
-Variety Food Truck Ordering System
+**Food Ordering System**
 
 This is a Python-based food ordering system. It allows users to select menu items from various categories such as Snacks, Meals, Drinks, and Dessert, specify quantities, and then calculates the total cost of their order.
 
@@ -16,7 +16,7 @@ This is a Python-based food ordering system. It allows users to select menu item
 	•	Adds ordered items to a list in dictionary format.
 	•	Displays a receipt with itemized order details and a total cost calculation.
 
-## **Menu Categories**
+## Menu Categories
 
 The menu is divided into the following categories:
 
@@ -30,22 +30,20 @@ The menu is divided into the following categories:
 	1. Install Python: Make sure you have Python 3 installed on your system.
 	2. Run the Script: Download the Python file and run it using the following command in your terminal or command prompt:
 	python menu.py
-
-3. Interaction: The program will display the menu, ask you to select items, and specify quantities. You will be able to continue ordering multiple items until you choose to stop.
-4. Receipt Generation: Once you’ve completed your order, the program will display a detailed receipt, showing the items you ordered, their quantities, prices, and the total cost.
+	3. Interaction: The program will display the menu, ask you to select items, and specify quantities. You can continue ordering multiple items until you choose to stop.
+	4. Receipt Generation: Once you’ve completed your order, the program will display a detailed receipt, showing the items you ordered, their quantities, prices, and the total cost.
 
 
 ## Order Flow
     •	The system first displays the menu to the customer.
     •	The customer can select a category and then pick an item from that category.
     •	Input validation ensures that only valid menu numbers and quantities are accepted.
-    •	The customer’s selections are stored in the order_list with each order item represented as a dictionary containing Item name, Price, and Quantity.
+    •	The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
 
 
 ## Example Interaction
-
 	Welcome to the variety food truck.
-	From which menu would you like to order? 
+	Which menu would you like to order from? 
 	1: Snacks
 	2: Meals
 	3: Drinks
@@ -53,7 +51,7 @@ The menu is divided into the following categories:
  
 	Type menu number: 2
 	You selected Meals
-	What Meals item would you like to order?
+	What Meal(s) item would you like to order?
 	Item # | Item name                | Price
 	-------|--------------------------|-------
 	1      | Burrito                   | $4.49
@@ -81,7 +79,7 @@ The menu is divided into the following categories:
 	Total Price: $8.98
 
 
-# Key Features
+## Key Features
 	1. Continuous Ordering: The customer can order multiple items from different categories in a single session.
 	2. Input Validation: The program checks that the user input is valid for both menu item selection and quantity.
 	3. Receipt: After the order is completed, the receipt is displayed with each item, its price, and the total amount due.
