@@ -11,22 +11,23 @@ This is a Python-based food ordering system. It allows users to select menu item
 
 ## **Features**
 
-	•	A multi-category menu including Snacks, Meals, Drinks, and Desserts.
-	•	Continuous ordering process with a validation check on inputs.
-	•	Adds ordered items to a list in dictionary format.
-	•	Displays a receipt with itemized order details and a total cost calculation.
+	• A multi-category menu including Snacks, Meals, Drinks, and Desserts.
+	• Continuous ordering process with a validation check on inputs.
+	• Adds ordered items to a list in dictionary format.
+	• Displays a receipt with itemized order details and a total cost calculation.
 
 ## Menu Categories
 
-The menu is divided into the following categories:
+   The menu is divided into the following categories:
 
-	•	Snacks: Items like cookies, bananas, apples, etc.
-	•	Meals: Includes burritos, sushi, pizza, burgers, etc.
-	•	Drinks: Various sodas, teas, and coffees.
-	•	Desserts: Includes cakes, cheesecake, and other desserts.
+	• Snacks: Items like cookies, bananas, apples, etc.
+	• Meals: Includes burritos, sushi, pizza, burgers, etc.
+	• Drinks: Various sodas, teas, and coffees.
+	• Desserts: Includes cakes, cheesecake, and other desserts.
 
 
 ## How to Run
+
 	1. Install Python: Make sure you have Python 3 installed on your system.
 	2. Run the Script: Download the Python file and run it using the following command in your terminal or command prompt:
 	python menu.py
@@ -35,10 +36,11 @@ The menu is divided into the following categories:
 
 
 ## Order Flow
-    •	The system first displays the menu to the customer.
-    •	The customer can select a category and then pick an item from that category.
-    •	Input validation ensures that only valid menu numbers and quantities are accepted.
-    •	The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
+
+• The system first displays the menu to the customer.
+• The customer can select a category and then pick an item from that category.
+• Input validation ensures that only valid menu numbers and quantities are accepted.
+• The customer’s selections are stored in the order_list, with each order item represented as a dictionary containing the Item name, Price, and Quantity.
 
 
 ## Example Interaction
@@ -66,7 +68,7 @@ The menu is divided into the following categories:
 	9      | Burger - Beef             | $8.49
 
  
-	* Please type the number of the item you wish to order: 1
+	Please type the number of the item you wish to order: 1
 	* How many Burritos would you like to order? (note: quantity will default to 1 if you enter an invalid input): 2
 	* Would you like to keep ordering? (Y)es or (N)o: n
 	* Thank you for your order.
